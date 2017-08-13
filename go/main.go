@@ -18,4 +18,8 @@ func main(){
 		break
 	}
 	fmt.Print("vfast")
+	boolean:=true
+	for boolean {
+	
+	}
 }
