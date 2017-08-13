@@ -20,6 +20,6 @@ func main(){
 	fmt.Print("vfast")
 	boolean:=true
 	for boolean {
-	
+		boolean:=false
 	}
 }
