@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;vfast&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../open-lesson" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../google" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../open-lesson" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../google" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
